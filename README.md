@@ -1,2 +1,2 @@
 # React-JS-Session
-I have Covered this session with 5 different Projects.
+This is a series where 5 basic level projects will be going to complete
